@@ -18,7 +18,7 @@ const friend2 = {
     age: 31,
 };
 
-const friends = [friend1, friend2];
+export const friends = [friend1, friend2];
 // console.log(friends);
 
 const colleague1 = {
